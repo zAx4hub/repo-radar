@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "text": "Org health: stale PRs, bus factor, hot paths"
+    },
+    {
+      "text": "zAx4hub fixture"
+    }
+  ],
+  "threshold": 0.25,
+  "baseline": "open source"
+}
